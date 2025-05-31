@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite">
+<listeners>
+<listener class-name="utilities.ExtentReportManager"/>
+</listeners>
+<test name="OpenCart Test">
+<parameter name="browser" value="chrome"/>
+<!--  passing browser parameter to BaseClass ->Setup()  -->
+<groups>
+<run>
+<!-- include name="Master"/> -->
+ <include name="Sanity" />
+<include name="Regression" />  
+<exclude name=""/>
+</run>
+</groups>
+
+
+<classes>
+<class name="testcases.AccountRegistrationTest"/>
+<class name="testcases.TC_002LoginTest"/>
+
+</classes>
+</test>
+</suite>

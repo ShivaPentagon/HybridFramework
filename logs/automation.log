@@ -1,0 +1,60 @@
+2025-05-28 08:01:34 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >" at the top of the suite file [C:\Users\KITS\Documents\workspace-spring-tools-for-eclipse-4.30.0.RELEASE\HybridFramework\grouping.xml] otherwise TestNG may fail or not work as expected.
+2025-05-28 08:03:38 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >" at the top of the suite file [C:\Users\KITS\Documents\workspace-spring-tools-for-eclipse-4.30.0.RELEASE\HybridFramework\grouping.xml] otherwise TestNG may fail or not work as expected.
+2025-05-28 08:04:40 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >" at the top of the suite file [C:\Users\KITS\Documents\workspace-spring-tools-for-eclipse-4.30.0.RELEASE\HybridFramework\grouping.xml] otherwise TestNG may fail or not work as expected.
+2025-05-28 08:06:00 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >" at the top of the suite file [C:\Users\KITS\Documents\workspace-spring-tools-for-eclipse-4.30.0.RELEASE\HybridFramework\grouping.xml] otherwise TestNG may fail or not work as expected.
+2025-05-28 08:06:10 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >" at the top of the suite file [C:\Users\KITS\Documents\workspace-spring-tools-for-eclipse-4.30.0.RELEASE\HybridFramework\grouping.xml] otherwise TestNG may fail or not work as expected.
+2025-05-28 08:06:10 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\KITS\Documents\workspace-spring-tools-for-eclipse-4.30.0.RELEASE\HybridFramework\grouping.xml
+
+2025-05-28 09:21:22 INFO  AccountRegistrationTest:17 - Strating TC_001_AccountRegistrationtTest
+2025-05-28 09:21:23 INFO  AccountRegistrationTest:21 - Clicked on My Account 
+2025-05-28 09:21:23 INFO  AccountRegistrationTest:24 - Clicked on Register 
+2025-05-28 09:21:24 INFO  AccountRegistrationTest:29 - Provided First Name 
+2025-05-28 09:21:24 INFO  AccountRegistrationTest:32 - Provided Last Name 
+2025-05-28 09:21:24 INFO  AccountRegistrationTest:36 - Provided Email 
+2025-05-28 09:21:24 INFO  AccountRegistrationTest:39 - Provided Telephone 
+2025-05-28 09:21:24 INFO  AccountRegistrationTest:42 - Provided Password 
+2025-05-28 09:21:24 INFO  AccountRegistrationTest:45 - Provided Confrmed Password 
+2025-05-28 09:21:24 INFO  AccountRegistrationTest:48 - Set Privacy Policy 
+2025-05-28 09:21:25 INFO  AccountRegistrationTest:51 - Clicked on Continue 
+2025-05-28 09:21:27 INFO  AccountRegistrationTest:63 - Finished TC_001_AccountRegistrationtTest
+2025-05-28 09:21:30 INFO  TC_002LoginTest:16 - Starting TC_002_LoginTest
+2025-05-28 11:08:07 INFO  AccountRegistrationTest:17 - Strating TC_001_AccountRegistrationtTest
+2025-05-28 11:08:07 INFO  AccountRegistrationTest:21 - Clicked on My Account 
+2025-05-28 11:08:08 INFO  AccountRegistrationTest:24 - Clicked on Register 
+2025-05-28 11:08:08 INFO  AccountRegistrationTest:29 - Provided First Name 
+2025-05-28 11:08:08 INFO  AccountRegistrationTest:32 - Provided Last Name 
+2025-05-28 11:08:08 INFO  AccountRegistrationTest:36 - Provided Email 
+2025-05-28 11:08:08 INFO  AccountRegistrationTest:39 - Provided Telephone 
+2025-05-28 11:08:08 INFO  AccountRegistrationTest:42 - Provided Password 
+2025-05-28 11:08:08 INFO  AccountRegistrationTest:45 - Provided Confrmed Password 
+2025-05-28 11:08:08 INFO  AccountRegistrationTest:48 - Set Privacy Policy 
+2025-05-28 11:08:10 INFO  AccountRegistrationTest:51 - Clicked on Continue 
+2025-05-28 11:08:12 INFO  AccountRegistrationTest:63 - Finished TC_001_AccountRegistrationtTest
+2025-05-28 11:08:16 INFO  TC_002LoginTest:16 - Starting TC_002_LoginTest
+2025-05-28 11:41:56 INFO  AccountRegistrationTest:17 - Strating TC_001_AccountRegistrationtTest
+2025-05-28 11:41:56 INFO  AccountRegistrationTest:21 - Clicked on My Account 
+2025-05-28 11:41:57 INFO  AccountRegistrationTest:24 - Clicked on Register 
+2025-05-28 11:41:57 INFO  AccountRegistrationTest:29 - Provided First Name 
+2025-05-28 11:41:57 INFO  AccountRegistrationTest:32 - Provided Last Name 
+2025-05-28 11:41:57 INFO  AccountRegistrationTest:36 - Provided Email 
+2025-05-28 11:41:57 INFO  AccountRegistrationTest:39 - Provided Telephone 
+2025-05-28 11:41:58 INFO  AccountRegistrationTest:42 - Provided Password 
+2025-05-28 11:41:58 INFO  AccountRegistrationTest:45 - Provided Confrmed Password 
+2025-05-28 11:41:58 INFO  AccountRegistrationTest:48 - Set Privacy Policy 
+2025-05-28 11:41:59 INFO  AccountRegistrationTest:51 - Clicked on Continue 
+2025-05-28 11:42:01 INFO  AccountRegistrationTest:63 - Finished TC_001_AccountRegistrationtTest
+2025-05-28 11:42:05 INFO  TC_002LoginTest:16 - Starting TC_002_LoginTest
+2025-05-28 16:38:57 INFO  AccountRegistrationTest:12 - Starting TC_001_AccountRegistrationTest
+2025-05-28 16:38:57 INFO  AccountRegistrationTest:17 - Clicked on My Account
+2025-05-28 16:38:59 INFO  AccountRegistrationTest:20 - Clicked on Register
+2025-05-28 16:38:59 INFO  AccountRegistrationTest:25 - Provided First Name
+2025-05-28 16:38:59 INFO  AccountRegistrationTest:28 - Provided Last Name
+2025-05-28 16:39:00 INFO  AccountRegistrationTest:31 - Provided Email
+2025-05-28 16:39:00 INFO  AccountRegistrationTest:34 - Provided Telephone
+2025-05-28 16:39:00 INFO  AccountRegistrationTest:37 - Provided Password
+2025-05-28 16:39:00 INFO  AccountRegistrationTest:40 - Provided Confirmed Password
+2025-05-28 16:39:00 INFO  AccountRegistrationTest:43 - Set Privacy Policy
+2025-05-28 16:39:02 INFO  AccountRegistrationTest:46 - Clicked on Continue
+2025-05-28 16:39:04 INFO  AccountRegistrationTest:60 - Finished TC_001_AccountRegistrationTest
+2025-05-28 16:39:16 INFO  TC_002LoginTest:16 - Starting TC_002_LoginTest
